@@ -33,7 +33,7 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 Clone o projeto
 
 ```bash
-  git clone https://github.com/plucca507/petshop-website
+  git clone [https://github.com/plucca507/petshop-website](https://github.com/plucca507/DesenvolvimentoWeb-Avan-ado/tree/main/petshop-website)
 ```
 
 Entre no diretório do projeto
